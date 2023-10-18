@@ -8,7 +8,7 @@
 ## 課程筆記區
 
 ## 作業連結區
-第一週作業
+第一週作業：C:\Users\jessi\OneDrive\GitHub\XHR\HW1.ipynb
 ## 專題連結區
 
 Markdown 語法說明：https://markdown.tw/
