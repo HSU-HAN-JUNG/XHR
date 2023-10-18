@@ -8,7 +8,7 @@
 ## 課程筆記區
 
 ## 作業連結區
-第一週作業：HW1.ipynb
+第一週作業：https://github.com/HSU-HAN-JUNG/XHR/blob/main/HW1.ipynb
 ## 專題連結區
 
 Markdown 語法說明：https://markdown.tw/
