@@ -16,11 +16,11 @@
 
 第三次作業：https://github.com/HSU-HAN-JUNG/XHR/blob/main/HW3.ipynb
 
-第四次作業https://github.com/HSU-HAN-JUNG/XHR/blob/main/HW4.ipynb
+第四次作業：https://github.com/HSU-HAN-JUNG/XHR/blob/main/HW4.ipynb
 
 第四次作業-Medium：https://reurl.cc/54gXjn
 
-第五次作業：
+第五次作業：https://github.com/HSU-HAN-JUNG/XHR/blob/main/HW5.ipynb
 
 第五次作業-Medium：
 
