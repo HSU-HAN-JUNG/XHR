@@ -16,8 +16,7 @@
 
 第三次作業：https://github.com/HSU-HAN-JUNG/XHR/blob/main/HW3.ipynb
 
-第四次作業-Python 程式碼：https://github.com/HSU-HAN-JUNG/XHR/blob/main/HW4.ipynb
-
+第四次作業https://github.com/HSU-HAN-JUNG/XHR/blob/main/HW4.ipynb
 第四次作業-Medium：
 
 第五次作業：
