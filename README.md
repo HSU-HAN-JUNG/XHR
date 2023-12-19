@@ -22,7 +22,7 @@
 
 第五次作業：https://github.com/HSU-HAN-JUNG/XHR/blob/main/HW5.ipynb
 
-第五次作業-Medium：
+第五次作業-Medium：https://reurl.cc/WR4yML
 
 ## 專題連結區
 程式碼-詳情請見【陳柔伊】的 GitHub ➡️ https://github.com/rouyi930525/rouyi/blob/main/final%20project.ipynb
