@@ -22,6 +22,17 @@
 
 第五次作業：
 
+第五次作業-Medium：
+
 ## 專題連結區
+程式碼-詳情請見【陳柔伊】的 GitHub ➡️ https://github.com/rouyi930525/rouyi/blob/main/final%20project.ipynb
+
+提案-YouTube：https://youtu.be/8bUOmMi94F
+
+第一次進度報告-YouTube：https://www.youtube.com/watch?v=MSBoc5dPZK0
+
+第二次進度報告-YouTube：https://youtu.be/pFGDV_RGhSk
+
+最終成果-YouTube：
 
 Markdown 語法說明：https://markdown.tw/
